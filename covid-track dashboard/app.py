@@ -518,7 +518,7 @@ def update_graph(w_countries):
             plot_bgcolor='#1f2c56',
             margin=dict(r=0, l =0, b = 0, t = 0),
             mapbox=dict(
-                accesstoken='pk.eyJ1Ijoic2ltb25hemhhbmciLCJhIjoiY2t2cmx5bHRmMDM5YTJubzJ0YXljZmE1ayJ9.9W6qD5z1Wp8HiQ8hZ8gAqA',
+                accesstoken='yourkey',
                 center = go.layout.mapbox.Center(lat=zoom_lat, lon=zoom_long),
                 style='dark',
                 zoom=zoom,
