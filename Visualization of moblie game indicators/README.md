@@ -7,6 +7,11 @@ Such as:
 + Conversion rate
 + Corelation matrix
 
+Run the visualization on local machine:
+
+```python app.py```
+
 ### Preview of the dashboard:
 
 ![img](assets/Dash.png)
+
