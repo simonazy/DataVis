@@ -9,7 +9,7 @@ Such as:
 
 Run the visualization on local machine:
 
-```python app.py```
+```python dashboard.py```
 
 ### Preview of the dashboard:
 
