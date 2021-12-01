@@ -11,3 +11,12 @@ Run on local machine:
 3. Change the accesstoken to your own API key from mapbox
 4. Now run: `python app.py` 👊 
 
+#### Overview
+![image](images/covidtrackdashboard.png)
+
+## Dashboard 2: Interactive Sales Dashborad 
+
+[Click to see the webpage](https://git.heroku.com/salesdashboardsales.git) ☕ 
+
+#### Overview
+![image](images/salesdashboard.png)
