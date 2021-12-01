@@ -1,5 +1,9 @@
 # DataVis
 
+Dash is written on top of Plotly.js and React.js, ideal for building and deploying data apps with customized user interfaces. 
+
+Learned Dash and practiced creating interactive Dashboard with Dash in `Python`. 
+
 ## Dashboard 1: Dynamic webpage to track the Covid-19 cases
 Free deployment with Heroku 😼
 
